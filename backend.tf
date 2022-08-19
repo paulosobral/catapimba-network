@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
-    bucket = "terraform-state-psobral"
-    key    = "terraform.tfstate"
+    bucket = "terraform-state-psobral89"
+    key    = "terraform-network-catapimba.tfstate"
     region = "us-east-1"
   }
 }
