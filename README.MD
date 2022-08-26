@@ -8,4 +8,4 @@
 
 ### Configuração inicial:
 
-Executar o comando terraform apply --auto-approve
+Executar o comando `terraform apply --auto-approve`.
